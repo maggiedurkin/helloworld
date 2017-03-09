@@ -1,3 +1,6 @@
-colors 1
-colors 2
-colors 3
+colors 01
+colors 02
+colors 03
+color 4
+color 5
+color 6
